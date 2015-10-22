@@ -1,0 +1,2 @@
+def sort(sequence)
+end
